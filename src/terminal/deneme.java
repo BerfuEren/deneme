@@ -5,5 +5,6 @@ public class deneme {
         System.out.println("hello tester berfu");
         System.out.println("second try");
         System.out.println("pull is successful");
+        System.out.println("yeterbe");
     }
 }
