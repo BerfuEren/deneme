@@ -4,5 +4,6 @@ public class deneme {
     public static void main(String[] args) {
         System.out.println("hello tester berfu");
         System.out.println("second try");
+        System.out.println("pull is successful");
     }
 }
