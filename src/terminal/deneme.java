@@ -6,5 +6,6 @@ public class deneme {
         System.out.println("second try");
         System.out.println("pull is successful");
         System.out.println("yeterbe");
+        System.out.println("pull suz");
     }
 }
