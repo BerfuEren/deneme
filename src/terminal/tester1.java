@@ -5,5 +5,6 @@ public class  tester1 {
         System.out.println("tester1");
         System.out.println("deneme2");
         System.out.println("yeterbe yyok ki");
+        System.out.println("pull yapmadan denersem");
     }
 }
